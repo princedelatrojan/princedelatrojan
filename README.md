@@ -2,7 +2,7 @@
 <h1 align="center" > Hi 👋🏿, I'm Paul Karanja</h1>
         <hr/><h3 align="center" >I have a deep passion for cybersecurity and programming, driven by a relentless ambition to push the boundaries of technology. <br/>
           With a strong foundation in both fields, I am dedicated to innovating and enhancing tech solutions to create a more secure and advanced digital world.</h3><hr/>
-        <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+        <img align="right" alt="Coding" width="400" src="giphy.gif">
         - 🔭 I’m currently pursuing IT
         - 🌱 I’m currently learning a wide range of Programming sector.
         - 👨‍💻 My portfolio website will be live soon.
