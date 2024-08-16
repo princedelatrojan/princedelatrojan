@@ -21,22 +21,8 @@
 <br>
 
 <hr/>
-```js
+
 import { SoftwareDeveloper } from '@princedelatrojan';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Paul Karanja';
-  title    = 'None';
-  company  = 'None';
-  location = 'Kenya';
-  website  = 'none';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['Python', 'Kotlin', 'C', 'Java', 'JavaScript', 'PHP'];
-  databases  = ['MySQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
-}
 
 <h3 align="center">I have a deep passion for cybersecurity and programming, driven by a relentless ambition to push the boundaries of technology. With a strong foundation in both fields, I am dedicated to innovating and enhancing tech solutions to create a more secure and advanced digital world.</h3>
 
