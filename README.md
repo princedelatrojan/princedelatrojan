@@ -85,3 +85,7 @@ class Skills extends SoftwareDeveloper {
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 </div>
 
+# Snake Game
+
+![Snake eating my contribution graph](./github-contribution-grid-snake.svg)
+
